@@ -7,3 +7,6 @@ gcc -std=c99 -o filename filename.c<br>
 myshell.c illustrates the implementation of command execution, pipe, and process managements. <br>
 cfs.c illustrates the Gannet chart, CPU burst time, and the CPU scheduling. <br>
 page_replacement illustrates different page algortihms <br>
+
+
+Technique: Data structure, resources alocation, Page Table Managmenet
